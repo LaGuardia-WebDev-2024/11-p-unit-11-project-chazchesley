@@ -5,7 +5,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed; 
 /*   margin-top: 10%; */
-  font-family: Georgia, serif;
+  font-family: fantasy,copperplate;
 }
 
 html{
@@ -14,10 +14,10 @@ html{
 }
 
 #myCanvas {
-  background-image:url("https://images.stockcake.com/public/4/f/f/4ffac3be-10e7-4f40-a647-90e2ce2a5463_large/majestic-mountain-sunrise-stockcake.jpg");
-  background-size:contain;
+  background-image:url("https://lh3.googleusercontent.com/Acyj9iIoNzle7dmOO6rpV_81P0PB3WCsphMBNu56qAQZbY6bNwtacZsb47dR7AGVVg");
+  background-size:cover;
   background-repeat: no-repeat;
-  background-attachment:fixed;
+  
   width:600px;
   height:400px;
   border: 1px solid black;
