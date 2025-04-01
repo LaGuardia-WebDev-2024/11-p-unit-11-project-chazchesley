@@ -1,8 +1,8 @@
 body {
-  background-image: url("https://wallpaperbat.com/img/519904-money-background-for-computer-money-wallpaper-money-on-my-mind-wallpaper-and-dope-money-wallpaper.jpg");
+  background-image: url("https://cdn.glitch.global/c8acc4d7-ce17-420e-8c99-08b7178fd2d4/Screenshot%202025-04-01%20at%2011.39.46%E2%80%AFAM.png?v=1743522009891");
   text-align: center;
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-size: 250px;
+  background-repeat: repeat;
   background-attachment: fixed; 
 /*   margin-top: 10%; */
   font-family: fantasy,copperplate;
@@ -14,13 +14,12 @@ html{
 }
 
 #myCanvas {
-  background-image:url("https://lh3.googleusercontent.com/Acyj9iIoNzle7dmOO6rpV_81P0PB3WCsphMBNu56qAQZbY6bNwtacZsb47dR7AGVVg");
+  background-image:url("https://www.shutterstock.com/image-photo/cool-cat-under-money-shower-600nw-2270639999.jpg");
   background-size:cover;
   background-repeat: no-repeat;
   
   width:600px;
   height:400px;
-  border: 1px solid black;
 }
 .click{
   background-color:#f21d84;
